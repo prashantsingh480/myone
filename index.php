@@ -1,5 +1,10 @@
+<?php
+session_start();
+require_once("connection.php ");
+?>
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
